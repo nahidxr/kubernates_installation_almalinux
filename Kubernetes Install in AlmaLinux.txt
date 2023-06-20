@@ -104,5 +104,8 @@ kubeadm join 192.168.20.136:6443 --token qn64gj.3glt7jlum6hyj49p --discovery-tok
 Slide:31
 kubectl get nodes -o wide
 
+============================linux command======================
+rm -rf <floder name>
+
 
 
